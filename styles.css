@@ -4,6 +4,10 @@ body {
     background: linear-gradient(#a2d2ff, #EFB0C9);
     color: #ffffff;
 }
+/* Find a font */
+/* Change color pallet to match presents */
+/* get letterkenny gifs and download and link */
+/* Figure out how to center gifs in present box */
 
 h1, h2, h3, h4, p {
     text-shadow: 0 0 1px black;
@@ -58,7 +62,7 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("images/wrapping-paper.jpg");
     background-size: cover;
 }
 
@@ -80,6 +84,11 @@ h1, h2, h3, h4, p {
 
 #gift-img-cheers:hover {
     background-image: url("images/cheers.gif");
+}
+
+#hydrate-gif:hover {
+    background-image: url("images/stay-hydrated.gif");
+    text-align: center;
 }
 
 #footer {
